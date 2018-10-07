@@ -1,6 +1,6 @@
 package com.company;
 
-public class Main
+public class OOP_LAB_1
 {
 
     public static void main(String[] args)
