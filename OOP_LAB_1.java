@@ -12,7 +12,7 @@ public class Main
             arr[i] = i + 2;
             res += arr[i];
         }
-        System.out.println("For: " + res);
+        System.out.println(" For: " + res);
         res = 0;
         int i = 0;
         while (i < arr.length)
@@ -21,7 +21,7 @@ public class Main
             res += arr[i];
             i++;
         }
-        System.out.println("While: " + res);
+        System.out.println(" While: " + res);
         res = 0;
         i = 0;
         do
@@ -31,6 +31,6 @@ public class Main
             i++;
         }
         while (i < arr.length);
-        System.out.println("Do-while: " + res);
+        System.out.println(" Do while: " + res);
     }
 }
