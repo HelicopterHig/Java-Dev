@@ -1,6 +1,6 @@
 package ru.mirea.lab1;
 import java.lang.String;
-public class OOP_LAB_2
+public class OOP_LAB2
 {
 
   public static void main(String[] args)
