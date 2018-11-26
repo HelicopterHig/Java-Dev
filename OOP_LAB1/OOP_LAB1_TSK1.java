@@ -1,6 +1,6 @@
 
 package ru.mirea.lab1;
-public class OOP_LAB1
+public class OOP_LAB1_TSK1
 {
 
     public static void main(String[] args)
